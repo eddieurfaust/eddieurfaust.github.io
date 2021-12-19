@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TestPage
-permalink: /about/
+permalink: /test-page/
 ---
 
 This is the test page
